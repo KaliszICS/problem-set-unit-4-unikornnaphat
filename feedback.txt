@@ -1,0 +1,10 @@
+K(30%): 100
+I(30%): 99
+C(10%): 75
+A(30%): 100
+97.2% of 80 - 77.76%
+
+Good work Sandy. Some small things.
+You didn't need to check if the random value is less than 20 or more than 0 since your already set it within those bounds.
+Don't forget documentation at the top!
+Otherwise good work.
